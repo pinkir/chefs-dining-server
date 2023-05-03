@@ -5,413 +5,532 @@
         "image": "https://img.freepik.com/free-photo/skewered-chicken-kebab-with-rice-vegetables_140725-2320.jpg?w=1060&t=st=1683100422~exp=1683101022~hmac=9f7ef0867b46597eb4fb8e5d68eaf7042dc0f2dd442ca3ceef7e32d00dff0dd2",
         "name": "Mediterranean Grilled Chicken",
         "ingredients": [
-          "4 boneless, skinless chicken breasts",
-          "2 tablespoons olive oil",
-          "2 tablespoons lemon juice",
-          "2 cloves garlic, minced",
-          "1 teaspoon dried oregano",
-          "Salt and pepper to taste",
-          "1/4 cup chopped fresh parsley (optional)"
+            "4 boneless, skinless chicken breasts",
+            "2 tablespoons olive oil",
+            "2 tablespoons lemon juice",
+            "2 cloves garlic, minced",
+            "1 teaspoon dried oregano",
+            "Salt and pepper to taste",
+            "1/4 cup chopped fresh parsley (optional)"
         ],
         "cookingMethod": "1. Preheat grill to medium-high heat.\n2. In a small bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper.\n3. Brush chicken with the mixture, making sure to coat both sides.\n4. Grill chicken for 6-8 minutes per side, or until fully cooked.\n5. Let the chicken rest for a few minutes before slicing and serving.\n6. Garnish with chopped parsley, if desired.",
-        "rating": 4.0
-      },
-
-      {
+        "rating": 4.0,
+        "chef": {
+            "name": "John Smith",
+            "picture": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-grating-carrot-with-grater-isolated-orange-wall_141793-101214.jpg?w=900&t=st=1683104512~exp=1683105112~hmac=574caadcc514ba755842ac86386ad196288bf7528c56ee4e4df6e74311b62c2e",
+            "yearsOfExperience": 10,
+            "numberOfRecipes": 50,
+            "likes": 10000,
+            "bio": "John Smith is a Greek-American chef who blends the flavors of the Mediterranean with contemporary American cuisine. She is the owner of a popular fusion restaurant in New York City and has been featured in several food magazines. Her dishes are a mix of traditional Greek ingredients with modern culinary techniques, resulting in a unique and unforgettable dining experience."
+        }
+    },
+    {
         "id": "mediterranean-recipe-2",
         "chef_id": 1,
         "image": "https://example.com/greek-salad.jpg",
         "name": "Greek Salad",
         "ingredients": [
-          "1 head romaine lettuce, chopped",
-          "1 medium cucumber, peeled and chopped",
-          "2 medium tomatoes, chopped",
-          "1/2 red onion, thinly sliced",
-          "1/2 cup Kalamata olives, pitted",
-          "1/2 cup crumbled feta cheese",
-          "1/4 cup olive oil",
-          "2 tablespoons red wine vinegar",
-          "1 teaspoon dried oregano",
-          "Salt and pepper to taste"
+            "1 head romaine lettuce, chopped",
+            "1 medium cucumber, peeled and chopped",
+            "2 medium tomatoes, chopped",
+            "1/2 red onion, thinly sliced",
+            "1/2 cup Kalamata olives, pitted",
+            "1/2 cup crumbled feta cheese",
+            "1/4 cup olive oil",
+            "2 tablespoons red wine vinegar",
+            "1 teaspoon dried oregano",
+            "Salt and pepper to taste"
         ],
         "cookingMethod": "1. In a large bowl, combine lettuce, cucumber, tomatoes, red onion, and olives.\n2. In a small bowl, whisk together olive oil, red wine vinegar, oregano, salt, and pepper.\n3. Pour dressing over salad and toss to coat.\n4. Sprinkle feta cheese over the top of the salad and serve.",
-        "rating": 4.5
-      },
-
-      {
+        "rating": 4.5,
+        "chef": {
+            "name": "John Smith",
+            "picture": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-grating-carrot-with-grater-isolated-orange-wall_141793-101214.jpg?w=900&t=st=1683104512~exp=1683105112~hmac=574caadcc514ba755842ac86386ad196288bf7528c56ee4e4df6e74311b62c2e",
+            "yearsOfExperience": 10,
+            "numberOfRecipes": 50,
+            "likes": 10000,
+            "bio": "John Smith is a Greek-American chef who blends the flavors of the Mediterranean with contemporary American cuisine. She is the owner of a popular fusion restaurant in New York City and has been featured in several food magazines. Her dishes are a mix of traditional Greek ingredients with modern culinary techniques, resulting in a unique and unforgettable dining experience."
+        }
+    },
+    {
         "id": "mediterranean-recipe-3",
         "chef_id": 1,
         "image": "https://example.com/falafel-wraps.jpg",
         "name": "Falafel Wraps",
         "ingredients": [
-          "1 cup dried chickpeas",
-          "1/2 onion, chopped",
-          "1/4 cup chopped fresh parsley",
-          "1/4 cup chopped fresh cilantro",
-          "2 cloves garlic, minced",
-          "1 teaspoon ground cumin",
-          "1 teaspoon ground coriander",
-          "1/2 teaspoon salt",
-          "1/4 teaspoon black pepper",
-          "1/4 teaspoon cayenne pepper",
-          "1/4 cup all-purpose flour",
-          "1/2 teaspoon baking powder",
-          "4 pita breads",
-          "1/2 cup hummus",
-          "1/2 cup tzatziki",
-          "1/2 cup chopped cucumber",
-          "1/2 cup chopped tomato",
-          "1/4 cup chopped red onion"
+            "1 cup dried chickpeas",
+            "1/2 onion, chopped",
+            "1/4 cup chopped fresh parsley",
+            "1/4 cup chopped fresh cilantro",
+            "2 cloves garlic, minced",
+            "1 teaspoon ground cumin",
+            "1 teaspoon ground coriander",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "1/4 teaspoon cayenne pepper",
+            "1/4 cup all-purpose flour",
+            "1/2 teaspoon baking powder",
+            "4 pita breads",
+            "1/2 cup hummus",
+            "1/2 cup tzatziki",
+            "1/2 cup chopped cucumber",
+            "1/2 cup chopped tomato",
+            "1/4 cup chopped red onion"
         ],
         "cookingMethod": "1. Soak chickpeas in water overnight.\n2. Drain chickpeas and combine with onion, parsley, cilantro, garlic, cumin, coriander, salt, black pepper, and cayenne pepper in a food processor.\n3. Process until mixture forms a coarse paste.\n4. Stir in flour and baking powder.\n5. Heat 1/2 inch of oil in a large skillet over medium heat.\n6. Shape falafel mixture into small balls and fry until golden brown, about 2 minutes per side.\n7. To assemble wraps, spread hummus and tzatziki on pita breads.\n8. Top with falafel, cucumber, tomato, and red onion.\n9. Roll up and serve.",
-        "rating": 4.2
-      },
-
-
-      {
-        "id": "mediterranean-recipe-1",
+        "rating": 4.2,
+        "chef": {
+            "name": "John Smith",
+            "picture": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-grating-carrot-with-grater-isolated-orange-wall_141793-101214.jpg?w=900&t=st=1683104512~exp=1683105112~hmac=574caadcc514ba755842ac86386ad196288bf7528c56ee4e4df6e74311b62c2e",
+            "yearsOfExperience": 10,
+            "numberOfRecipes": 50,
+            "likes": 10000,
+            "bio": "John Smith is a Greek-American chef who blends the flavors of the Mediterranean with contemporary American cuisine. She is the owner of a popular fusion restaurant in New York City and has been featured in several food magazines. Her dishes are a mix of traditional Greek ingredients with modern culinary techniques, resulting in a unique and unforgettable dining experience."
+        }
+    },
+    {
+        "id": "mediterranean-recipe-4",
         "chef_id": 2,
         "image": "https://example.com/mediterranean-recipe-1.jpg",
         "name": "Mediterranean Grilled Chicken",
         "ingredients": [
-          "4 boneless, skinless chicken breasts",
-          "2 tablespoons olive oil",
-          "2 tablespoons lemon juice",
-          "2 cloves garlic, minced",
-          "1 teaspoon dried oregano",
-          "Salt and pepper to taste",
-          "1/4 cup chopped fresh parsley (optional)"
+            "4 boneless, skinless chicken breasts",
+            "2 tablespoons olive oil",
+            "2 tablespoons lemon juice",
+            "2 cloves garlic, minced",
+            "1 teaspoon dried oregano",
+            "Salt and pepper to taste",
+            "1/4 cup chopped fresh parsley (optional)"
         ],
         "cookingMethod": "1. Preheat grill to medium-high heat.\n2. In a small bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper.\n3. Brush chicken with the mixture, making sure to coat both sides.\n4. Grill chicken for 6-8 minutes per side, or until fully cooked.\n5. Let the chicken rest for a few minutes before slicing and serving.\n6. Garnish with chopped parsley, if desired.",
-        "rating": 4.0
-      },
-
-      {
-        "id": "mediterranean-recipe-2",
+        "rating": 4.0,
+        "chef": {
+            "name": "Jane Doe",
+            "picture": "https://img.freepik.com/free-photo/chef-cooking-fresh-vegetable-salad-his-kitchen_155003-3284.jpg?w=900&t=st=1683104385~exp=1683104985~hmac=7c0a881eb564ee8ef05ae72350fa73ecdd5e0314d7ef6c9c4323415c5a503801",
+            "yearsOfExperience": 5,
+            "numberOfRecipes": 20,
+            "likes": 5000,
+            "bio": "Jane Doe is a Spanish chef who celebrates the bold flavors of the Mediterranean in his cuisine. He has worked in top-rated restaurants across Spain and is known for his innovative use of ingredients like saffron, paprika, and olive oil. His dishes are a tribute to the vibrant culinary traditions of Spain and the Mediterranean."
+        }
+    },
+    {
+        "id": "mediterranean-recipe-5",
         "chef_id": 2,
         "image": "https://example.com/greek-salad.jpg",
         "name": "Greek Salad",
         "ingredients": [
-          "1 head romaine lettuce, chopped",
-          "1 medium cucumber, peeled and chopped",
-          "2 medium tomatoes, chopped",
-          "1/2 red onion, thinly sliced",
-          "1/2 cup Kalamata olives, pitted",
-          "1/2 cup crumbled feta cheese",
-          "1/4 cup olive oil",
-          "2 tablespoons red wine vinegar",
-          "1 teaspoon dried oregano",
-          "Salt and pepper to taste"
+            "1 head romaine lettuce, chopped",
+            "1 medium cucumber, peeled and chopped",
+            "2 medium tomatoes, chopped",
+            "1/2 red onion, thinly sliced",
+            "1/2 cup Kalamata olives, pitted",
+            "1/2 cup crumbled feta cheese",
+            "1/4 cup olive oil",
+            "2 tablespoons red wine vinegar",
+            "1 teaspoon dried oregano",
+            "Salt and pepper to taste"
         ],
         "cookingMethod": "1. In a large bowl, combine lettuce, cucumber, tomatoes, red onion, and olives.\n2. In a small bowl, whisk together olive oil, red wine vinegar, oregano, salt, and pepper.\n3. Pour dressing over salad and toss to coat.\n4. Sprinkle feta cheese over the top of the salad and serve.",
-        "rating": 4.5
-      },
-
-      {
-        "id": "mediterranean-recipe-3",
+        "rating": 4.5,
+        "chef": {
+            "name": "Jane Doe",
+            "picture": "https://img.freepik.com/free-photo/chef-cooking-fresh-vegetable-salad-his-kitchen_155003-3284.jpg?w=900&t=st=1683104385~exp=1683104985~hmac=7c0a881eb564ee8ef05ae72350fa73ecdd5e0314d7ef6c9c4323415c5a503801",
+            "yearsOfExperience": 5,
+            "numberOfRecipes": 20,
+            "likes": 5000,
+            "bio": "Jane Doe is a Spanish chef who celebrates the bold flavors of the Mediterranean in his cuisine. He has worked in top-rated restaurants across Spain and is known for his innovative use of ingredients like saffron, paprika, and olive oil. His dishes are a tribute to the vibrant culinary traditions of Spain and the Mediterranean."
+        }
+    },
+    {
+        "id": "mediterranean-recipe-6",
         "chef_id": 2,
         "image": "https://example.com/falafel-wraps.jpg",
         "name": "Falafel Wraps",
         "ingredients": [
-          "1 cup dried chickpeas",
-          "1/2 onion, chopped",
-          "1/4 cup chopped fresh parsley",
-          "1/4 cup chopped fresh cilantro",
-          "2 cloves garlic, minced",
-          "1 teaspoon ground cumin",
-          "1 teaspoon ground coriander",
-          "1/2 teaspoon salt",
-          "1/4 teaspoon black pepper",
-          "1/4 teaspoon cayenne pepper",
-          "1/4 cup all-purpose flour",
-          "1/2 teaspoon baking powder",
-          "4 pita breads",
-          "1/2 cup hummus",
-          "1/2 cup tzatziki",
-          "1/2 cup chopped cucumber",
-          "1/2 cup chopped tomato",
-          "1/4 cup chopped red onion"
+            "1 cup dried chickpeas",
+            "1/2 onion, chopped",
+            "1/4 cup chopped fresh parsley",
+            "1/4 cup chopped fresh cilantro",
+            "2 cloves garlic, minced",
+            "1 teaspoon ground cumin",
+            "1 teaspoon ground coriander",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "1/4 teaspoon cayenne pepper",
+            "1/4 cup all-purpose flour",
+            "1/2 teaspoon baking powder",
+            "4 pita breads",
+            "1/2 cup hummus",
+            "1/2 cup tzatziki",
+            "1/2 cup chopped cucumber",
+            "1/2 cup chopped tomato",
+            "1/4 cup chopped red onion"
         ],
         "cookingMethod": "1. Soak chickpeas in water overnight.\n2. Drain chickpeas and combine with onion, parsley, cilantro, garlic, cumin, coriander, salt, black pepper, and cayenne pepper in a food processor.\n3. Process until mixture forms a coarse paste.\n4. Stir in flour and baking powder.\n5. Heat 1/2 inch of oil in a large skillet over medium heat.\n6. Shape falafel mixture into small balls and fry until golden brown, about 2 minutes per side.\n7. To assemble wraps, spread hummus and tzatziki on pita breads.\n8. Top with falafel, cucumber, tomato, and red onion.\n9. Roll up and serve.",
-        "rating": 4.2
-      },
-
-
-      {
-        "id": "mediterranean-recipe-1",
+        "rating": 4.2,
+        "chef": {
+            "name": "Jane Doe",
+            "picture": "https://img.freepik.com/free-photo/chef-cooking-fresh-vegetable-salad-his-kitchen_155003-3284.jpg?w=900&t=st=1683104385~exp=1683104985~hmac=7c0a881eb564ee8ef05ae72350fa73ecdd5e0314d7ef6c9c4323415c5a503801",
+            "yearsOfExperience": 5,
+            "numberOfRecipes": 20,
+            "likes": 5000,
+            "bio": "Jane Doe is a Spanish chef who celebrates the bold flavors of the Mediterranean in his cuisine. He has worked in top-rated restaurants across Spain and is known for his innovative use of ingredients like saffron, paprika, and olive oil. His dishes are a tribute to the vibrant culinary traditions of Spain and the Mediterranean."
+        }
+    },
+    {
+        "id": "mediterranean-recipe-7",
         "chef_id": 3,
         "image": "https://example.com/mediterranean-recipe-1.jpg",
         "name": "Mediterranean Grilled Chicken",
         "ingredients": [
-          "4 boneless, skinless chicken breasts",
-          "2 tablespoons olive oil",
-          "2 tablespoons lemon juice",
-          "2 cloves garlic, minced",
-          "1 teaspoon dried oregano",
-          "Salt and pepper to taste",
-          "1/4 cup chopped fresh parsley (optional)"
+            "4 boneless, skinless chicken breasts",
+            "2 tablespoons olive oil",
+            "2 tablespoons lemon juice",
+            "2 cloves garlic, minced",
+            "1 teaspoon dried oregano",
+            "Salt and pepper to taste",
+            "1/4 cup chopped fresh parsley (optional)"
         ],
         "cookingMethod": "1. Preheat grill to medium-high heat.\n2. In a small bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper.\n3. Brush chicken with the mixture, making sure to coat both sides.\n4. Grill chicken for 6-8 minutes per side, or until fully cooked.\n5. Let the chicken rest for a few minutes before slicing and serving.\n6. Garnish with chopped parsley, if desired.",
-        "rating": 4.0
-      },
-
-      {
-        "id": "mediterranean-recipe-2",
+        "rating": 4.0,
+        "chef": {
+            "name": "Mike Johnson",
+            "picture": "https://img.freepik.com/free-photo/handsome-chef-catching-ingredients-soup_329181-672.jpg?w=900&t=st=1683109272~exp=1683109872~hmac=1bb98cf511dc503a4d5ebf085c3c2ea8c44ae41d4fe53d8a6b60997e28972995",
+            "yearsOfExperience": 15,
+            "numberOfRecipes": 75,
+            "likes": 15000,
+            "bio": "Mike Johnson is a Moroccan chef who specializes in the exotic flavors of North African cuisine. Her dishes are a fusion of Moroccan, Tunisian, and Algerian influences, with an emphasis on the use of aromatic spices like cumin, coriander, and cinnamon. She is a master of tagines, couscous, and other traditional North African dishes"
+        }
+    },
+    {
+        "id": "mediterranean-recipe-8",
         "chef_id": 3,
         "image": "https://example.com/greek-salad.jpg",
         "name": "Greek Salad",
         "ingredients": [
-          "1 head romaine lettuce, chopped",
-          "1 medium cucumber, peeled and chopped",
-          "2 medium tomatoes, chopped",
-          "1/2 red onion, thinly sliced",
-          "1/2 cup Kalamata olives, pitted",
-          "1/2 cup crumbled feta cheese",
-          "1/4 cup olive oil",
-          "2 tablespoons red wine vinegar",
-          "1 teaspoon dried oregano",
-          "Salt and pepper to taste"
+            "1 head romaine lettuce, chopped",
+            "1 medium cucumber, peeled and chopped",
+            "2 medium tomatoes, chopped",
+            "1/2 red onion, thinly sliced",
+            "1/2 cup Kalamata olives, pitted",
+            "1/2 cup crumbled feta cheese",
+            "1/4 cup olive oil",
+            "2 tablespoons red wine vinegar",
+            "1 teaspoon dried oregano",
+            "Salt and pepper to taste"
         ],
         "cookingMethod": "1. In a large bowl, combine lettuce, cucumber, tomatoes, red onion, and olives.\n2. In a small bowl, whisk together olive oil, red wine vinegar, oregano, salt, and pepper.\n3. Pour dressing over salad and toss to coat.\n4. Sprinkle feta cheese over the top of the salad and serve.",
-        "rating": 4.5
-      },
-
-      {
-        "id": "mediterranean-recipe-3",
+        "rating": 4.5,
+        "chef": {
+            "name": "Mike Johnson",
+            "picture": "https://img.freepik.com/free-photo/handsome-chef-catching-ingredients-soup_329181-672.jpg?w=900&t=st=1683109272~exp=1683109872~hmac=1bb98cf511dc503a4d5ebf085c3c2ea8c44ae41d4fe53d8a6b60997e28972995",
+            "yearsOfExperience": 15,
+            "numberOfRecipes": 75,
+            "likes": 15000,
+            "bio": "Mike Johnson is a Moroccan chef who specializes in the exotic flavors of North African cuisine. Her dishes are a fusion of Moroccan, Tunisian, and Algerian influences, with an emphasis on the use of aromatic spices like cumin, coriander, and cinnamon. She is a master of tagines, couscous, and other traditional North African dishes."
+        }
+    },
+    {
+        "id": "mediterranean-recipe-9",
         "chef_id": 3,
         "image": "https://example.com/falafel-wraps.jpg",
         "name": "Falafel Wraps",
         "ingredients": [
-          "1 cup dried chickpeas",
-          "1/2 onion, chopped",
-          "1/4 cup chopped fresh parsley",
-          "1/4 cup chopped fresh cilantro",
-          "2 cloves garlic, minced",
-          "1 teaspoon ground cumin",
-          "1 teaspoon ground coriander",
-          "1/2 teaspoon salt",
-          "1/4 teaspoon black pepper",
-          "1/4 teaspoon cayenne pepper",
-          "1/4 cup all-purpose flour",
-          "1/2 teaspoon baking powder",
-          "4 pita breads",
-          "1/2 cup hummus",
-          "1/2 cup tzatziki",
-          "1/2 cup chopped cucumber",
-          "1/2 cup chopped tomato",
-          "1/4 cup chopped red onion"
+            "1 cup dried chickpeas",
+            "1/2 onion, chopped",
+            "1/4 cup chopped fresh parsley",
+            "1/4 cup chopped fresh cilantro",
+            "2 cloves garlic, minced",
+            "1 teaspoon ground cumin",
+            "1 teaspoon ground coriander",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "1/4 teaspoon cayenne pepper",
+            "1/4 cup all-purpose flour",
+            "1/2 teaspoon baking powder",
+            "4 pita breads",
+            "1/2 cup hummus",
+            "1/2 cup tzatziki",
+            "1/2 cup chopped cucumber",
+            "1/2 cup chopped tomato",
+            "1/4 cup chopped red onion"
         ],
         "cookingMethod": "1. Soak chickpeas in water overnight.\n2. Drain chickpeas and combine with onion, parsley, cilantro, garlic, cumin, coriander, salt, black pepper, and cayenne pepper in a food processor.\n3. Process until mixture forms a coarse paste.\n4. Stir in flour and baking powder.\n5. Heat 1/2 inch of oil in a large skillet over medium heat.\n6. Shape falafel mixture into small balls and fry until golden brown, about 2 minutes per side.\n7. To assemble wraps, spread hummus and tzatziki on pita breads.\n8. Top with falafel, cucumber, tomato, and red onion.\n9. Roll up and serve.",
-        "rating": 4.2
-      },
-
-      {
-        "id": "mediterranean-recipe-1",
+        "rating": 4.2,
+        "chef": {
+            "name": "Mike Johnson",
+            "picture": "https://img.freepik.com/free-photo/handsome-chef-catching-ingredients-soup_329181-672.jpg?w=900&t=st=1683109272~exp=1683109872~hmac=1bb98cf511dc503a4d5ebf085c3c2ea8c44ae41d4fe53d8a6b60997e28972995",
+            "yearsOfExperience": 15,
+            "numberOfRecipes": 75,
+            "likes": 15000,
+            "bio": "Mike Johnson is a Moroccan chef who specializes in the exotic flavors of North African cuisine. Her dishes are a fusion of Moroccan, Tunisian, and Algerian influences, with an emphasis on the use of aromatic spices like cumin, coriander, and cinnamon. She is a master of tagines, couscous, and other traditional North African dishes."
+        }
+    },
+    {
+        "id": "mediterranean-recipe-10",
         "chef_id": 4,
         "image": "https://example.com/mediterranean-recipe-1.jpg",
         "name": "Mediterranean Grilled Chicken",
         "ingredients": [
-          "4 boneless, skinless chicken breasts",
-          "2 tablespoons olive oil",
-          "2 tablespoons lemon juice",
-          "2 cloves garlic, minced",
-          "1 teaspoon dried oregano",
-          "Salt and pepper to taste",
-          "1/4 cup chopped fresh parsley (optional)"
+            "4 boneless, skinless chicken breasts",
+            "2 tablespoons olive oil",
+            "2 tablespoons lemon juice",
+            "2 cloves garlic, minced",
+            "1 teaspoon dried oregano",
+            "Salt and pepper to taste",
+            "1/4 cup chopped fresh parsley (optional)"
         ],
         "cookingMethod": "1. Preheat grill to medium-high heat.\n2. In a small bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper.\n3. Brush chicken with the mixture, making sure to coat both sides.\n4. Grill chicken for 6-8 minutes per side, or until fully cooked.\n5. Let the chicken rest for a few minutes before slicing and serving.\n6. Garnish with chopped parsley, if desired.",
-        "rating": 4.0
-      },
-
-      {
-        "id": "mediterranean-recipe-2",
+        "rating": 4.0,
+        "chef": {
+            "name": "Sara Lee",
+            "picture": "https://img.freepik.com/free-photo/male-chef-uniform-hat-apron-adding-spice-into-food-kitchen_176474-9019.jpg?w=900&t=st=1683109371~exp=1683109971~hmac=6d301b8fe2c7f2eb1824401f957f074b989945036f4fbaa81a2f5da5d30e84cc",
+            "yearsOfExperience": 8,
+            "numberOfRecipes": 40,
+            "likes": 8000,
+            "bio": "Sara Lee is an Italian chef who has a passion for the rustic, simple flavors of Mediterranean cuisine. He has worked in some of the top restaurants in Italy and is known for his use of fresh, seasonal ingredients. His dishes are a celebration of the rich culinary traditions of Italy and the Mediterranean."
+        }
+    },
+    {
+        "id": "mediterranean-recipe-11",
         "chef_id": 4,
         "image": "https://example.com/greek-salad.jpg",
         "name": "Greek Salad",
         "ingredients": [
-          "1 head romaine lettuce, chopped",
-          "1 medium cucumber, peeled and chopped",
-          "2 medium tomatoes, chopped",
-          "1/2 red onion, thinly sliced",
-          "1/2 cup Kalamata olives, pitted",
-          "1/2 cup crumbled feta cheese",
-          "1/4 cup olive oil",
-          "2 tablespoons red wine vinegar",
-          "1 teaspoon dried oregano",
-          "Salt and pepper to taste"
+            "1 head romaine lettuce, chopped",
+            "1 medium cucumber, peeled and chopped",
+            "2 medium tomatoes, chopped",
+            "1/2 red onion, thinly sliced",
+            "1/2 cup Kalamata olives, pitted",
+            "1/2 cup crumbled feta cheese",
+            "1/4 cup olive oil",
+            "2 tablespoons red wine vinegar",
+            "1 teaspoon dried oregano",
+            "Salt and pepper to taste"
         ],
         "cookingMethod": "1. In a large bowl, combine lettuce, cucumber, tomatoes, red onion, and olives.\n2. In a small bowl, whisk together olive oil, red wine vinegar, oregano, salt, and pepper.\n3. Pour dressing over salad and toss to coat.\n4. Sprinkle feta cheese over the top of the salad and serve.",
-        "rating": 4.5
-      },
-
-      {
-        "id": "mediterranean-recipe-3",
+        "rating": 4.5,
+        "chef": {
+            "name": "Sara Lee",
+            "picture": "https://img.freepik.com/free-photo/male-chef-uniform-hat-apron-adding-spice-into-food-kitchen_176474-9019.jpg?w=900&t=st=1683109371~exp=1683109971~hmac=6d301b8fe2c7f2eb1824401f957f074b989945036f4fbaa81a2f5da5d30e84cc",
+            "yearsOfExperience": 8,
+            "numberOfRecipes": 40,
+            "likes": 8000,
+            "bio": "Sara Lee is an Italian chef who has a passion for the rustic, simple flavors of Mediterranean cuisine. He has worked in some of the top restaurants in Italy and is known for his use of fresh, seasonal ingredients. His dishes are a celebration of the rich culinary traditions of Italy and the Mediterranean."
+        }
+    },
+    {
+        "id": "mediterranean-recipe-12",
         "chef_id": 4,
         "image": "https://example.com/falafel-wraps.jpg",
         "name": "Falafel Wraps",
         "ingredients": [
-          "1 cup dried chickpeas",
-          "1/2 onion, chopped",
-          "1/4 cup chopped fresh parsley",
-          "1/4 cup chopped fresh cilantro",
-          "2 cloves garlic, minced",
-          "1 teaspoon ground cumin",
-          "1 teaspoon ground coriander",
-          "1/2 teaspoon salt",
-          "1/4 teaspoon black pepper",
-          "1/4 teaspoon cayenne pepper",
-          "1/4 cup all-purpose flour",
-          "1/2 teaspoon baking powder",
-          "4 pita breads",
-          "1/2 cup hummus",
-          "1/2 cup tzatziki",
-          "1/2 cup chopped cucumber",
-          "1/2 cup chopped tomato",
-          "1/4 cup chopped red onion"
+            "1 cup dried chickpeas",
+            "1/2 onion, chopped",
+            "1/4 cup chopped fresh parsley",
+            "1/4 cup chopped fresh cilantro",
+            "2 cloves garlic, minced",
+            "1 teaspoon ground cumin",
+            "1 teaspoon ground coriander",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "1/4 teaspoon cayenne pepper",
+            "1/4 cup all-purpose flour",
+            "1/2 teaspoon baking powder",
+            "4 pita breads",
+            "1/2 cup hummus",
+            "1/2 cup tzatziki",
+            "1/2 cup chopped cucumber",
+            "1/2 cup chopped tomato",
+            "1/4 cup chopped red onion"
         ],
         "cookingMethod": "1. Soak chickpeas in water overnight.\n2. Drain chickpeas and combine with onion, parsley, cilantro, garlic, cumin, coriander, salt, black pepper, and cayenne pepper in a food processor.\n3. Process until mixture forms a coarse paste.\n4. Stir in flour and baking powder.\n5. Heat 1/2 inch of oil in a large skillet over medium heat.\n6. Shape falafel mixture into small balls and fry until golden brown, about 2 minutes per side.\n7. To assemble wraps, spread hummus and tzatziki on pita breads.\n8. Top with falafel, cucumber, tomato, and red onion.\n9. Roll up and serve.",
-        "rating": 4.2
-      },
-
-      {
-        "id": "mediterranean-recipe-1",
+        "rating": 4.2,
+        "chef": {
+            "name": "Sara Lee",
+            "picture": "https://img.freepik.com/free-photo/male-chef-uniform-hat-apron-adding-spice-into-food-kitchen_176474-9019.jpg?w=900&t=st=1683109371~exp=1683109971~hmac=6d301b8fe2c7f2eb1824401f957f074b989945036f4fbaa81a2f5da5d30e84cc",
+            "yearsOfExperience": 8,
+            "numberOfRecipes": 40,
+            "likes": 8000,
+            "bio": "Sara Lee is an Italian chef who has a passion for the rustic, simple flavors of Mediterranean cuisine. He has worked in some of the top restaurants in Italy and is known for his use of fresh, seasonal ingredients. His dishes are a celebration of the rich culinary traditions of Italy and the Mediterranean."
+        }
+    },
+    {
+        "id": "mediterranean-recipe-13",
         "chef_id": 5,
         "image": "https://example.com/mediterranean-recipe-1.jpg",
         "name": "Mediterranean Grilled Chicken",
         "ingredients": [
-          "4 boneless, skinless chicken breasts",
-          "2 tablespoons olive oil",
-          "2 tablespoons lemon juice",
-          "2 cloves garlic, minced",
-          "1 teaspoon dried oregano",
-          "Salt and pepper to taste",
-          "1/4 cup chopped fresh parsley (optional)"
+            "4 boneless, skinless chicken breasts",
+            "2 tablespoons olive oil",
+            "2 tablespoons lemon juice",
+            "2 cloves garlic, minced",
+            "1 teaspoon dried oregano",
+            "Salt and pepper to taste",
+            "1/4 cup chopped fresh parsley (optional)"
         ],
         "cookingMethod": "1. Preheat grill to medium-high heat.\n2. In a small bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper.\n3. Brush chicken with the mixture, making sure to coat both sides.\n4. Grill chicken for 6-8 minutes per side, or until fully cooked.\n5. Let the chicken rest for a few minutes before slicing and serving.\n6. Garnish with chopped parsley, if desired.",
-        "rating": 4.0
-      },
-
-      {
-        "id": "mediterranean-recipe-2",
+        "rating": 4.0,
+        "chef": {
+            "name": "Tommy Nguyen",
+            "picture": "https://img.freepik.com/free-photo/young-confident-caucasian-cook-girl-chef-uniform-holds-wooden-spoon-puts-hand-waist-isolated-pink-wall-with-copy-space_141793-33208.jpg?t=st=1683109365~exp=1683109965~hmac=6e4202a6b2d6977b2c382bc51954290b94167619840732e046a304b36fe93f6f",
+            "yearsOfExperience": 3,
+            "numberOfRecipes": 10,
+            "likes": 2000,
+            "bio": "Tommy Nguyen is a Lebanese chef who specializes in traditional Middle Eastern cuisine. She is a master of preparing classic dishes like hummus, baba ghanoush, and tabbouleh. Her dishes showcase the bold flavors of the Mediterranean, with a focus on fresh, locally-sourced ingredients."
+        }
+    },
+    {
+        "id": "mediterranean-recipe-14",
         "chef_id": 5,
         "image": "https://example.com/greek-salad.jpg",
         "name": "Greek Salad",
         "ingredients": [
-          "1 head romaine lettuce, chopped",
-          "1 medium cucumber, peeled and chopped",
-          "2 medium tomatoes, chopped",
-          "1/2 red onion, thinly sliced",
-          "1/2 cup Kalamata olives, pitted",
-          "1/2 cup crumbled feta cheese",
-          "1/4 cup olive oil",
-          "2 tablespoons red wine vinegar",
-          "1 teaspoon dried oregano",
-          "Salt and pepper to taste"
+            "1 head romaine lettuce, chopped",
+            "1 medium cucumber, peeled and chopped",
+            "2 medium tomatoes, chopped",
+            "1/2 red onion, thinly sliced",
+            "1/2 cup Kalamata olives, pitted",
+            "1/2 cup crumbled feta cheese",
+            "1/4 cup olive oil",
+            "2 tablespoons red wine vinegar",
+            "1 teaspoon dried oregano",
+            "Salt and pepper to taste"
         ],
         "cookingMethod": "1. In a large bowl, combine lettuce, cucumber, tomatoes, red onion, and olives.\n2. In a small bowl, whisk together olive oil, red wine vinegar, oregano, salt, and pepper.\n3. Pour dressing over salad and toss to coat.\n4. Sprinkle feta cheese over the top of the salad and serve.",
-        "rating": 4.5
-      },
-
-      {
-        "id": "mediterranean-recipe-3",
+        "rating": 4.5,
+        "chef": {
+            "name": "Tommy Nguyen",
+            "picture": "https://img.freepik.com/free-photo/young-confident-caucasian-cook-girl-chef-uniform-holds-wooden-spoon-puts-hand-waist-isolated-pink-wall-with-copy-space_141793-33208.jpg?t=st=1683109365~exp=1683109965~hmac=6e4202a6b2d6977b2c382bc51954290b94167619840732e046a304b36fe93f6f",
+            "yearsOfExperience": 3,
+            "numberOfRecipes": 10,
+            "likes": 2000,
+            "bio": "Tommy Nguyen is a Lebanese chef who specializes in traditional Middle Eastern cuisine. She is a master of preparing classic dishes like hummus, baba ghanoush, and tabbouleh. Her dishes showcase the bold flavors of the Mediterranean, with a focus on fresh, locally-sourced ingredients."
+        }
+    },
+    {
+        "id": "mediterranean-recipe-15",
         "chef_id": 5,
         "image": "https://example.com/falafel-wraps.jpg",
         "name": "Falafel Wraps",
         "ingredients": [
-          "1 cup dried chickpeas",
-          "1/2 onion, chopped",
-          "1/4 cup chopped fresh parsley",
-          "1/4 cup chopped fresh cilantro",
-          "2 cloves garlic, minced",
-          "1 teaspoon ground cumin",
-          "1 teaspoon ground coriander",
-          "1/2 teaspoon salt",
-          "1/4 teaspoon black pepper",
-          "1/4 teaspoon cayenne pepper",
-          "1/4 cup all-purpose flour",
-          "1/2 teaspoon baking powder",
-          "4 pita breads",
-          "1/2 cup hummus",
-          "1/2 cup tzatziki",
-          "1/2 cup chopped cucumber",
-          "1/2 cup chopped tomato",
-          "1/4 cup chopped red onion"
+            "1 cup dried chickpeas",
+            "1/2 onion, chopped",
+            "1/4 cup chopped fresh parsley",
+            "1/4 cup chopped fresh cilantro",
+            "2 cloves garlic, minced",
+            "1 teaspoon ground cumin",
+            "1 teaspoon ground coriander",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "1/4 teaspoon cayenne pepper",
+            "1/4 cup all-purpose flour",
+            "1/2 teaspoon baking powder",
+            "4 pita breads",
+            "1/2 cup hummus",
+            "1/2 cup tzatziki",
+            "1/2 cup chopped cucumber",
+            "1/2 cup chopped tomato",
+            "1/4 cup chopped red onion"
         ],
         "cookingMethod": "1. Soak chickpeas in water overnight.\n2. Drain chickpeas and combine with onion, parsley, cilantro, garlic, cumin, coriander, salt, black pepper, and cayenne pepper in a food processor.\n3. Process until mixture forms a coarse paste.\n4. Stir in flour and baking powder.\n5. Heat 1/2 inch of oil in a large skillet over medium heat.\n6. Shape falafel mixture into small balls and fry until golden brown, about 2 minutes per side.\n7. To assemble wraps, spread hummus and tzatziki on pita breads.\n8. Top with falafel, cucumber, tomato, and red onion.\n9. Roll up and serve.",
-        "rating": 4.2
-      },
-
-      {
-        "id": "mediterranean-recipe-1",
+        "rating": 4.2,
+        "chef": {
+            "name": "Tommy Nguyen",
+            "picture": "https://img.freepik.com/free-photo/young-confident-caucasian-cook-girl-chef-uniform-holds-wooden-spoon-puts-hand-waist-isolated-pink-wall-with-copy-space_141793-33208.jpg?t=st=1683109365~exp=1683109965~hmac=6e4202a6b2d6977b2c382bc51954290b94167619840732e046a304b36fe93f6f",
+            "yearsOfExperience": 3,
+            "numberOfRecipes": 10,
+            "likes": 2000,
+            "bio": "Tommy Nguyen is a Lebanese chef who specializes in traditional Middle Eastern cuisine. She is a master of preparing classic dishes like hummus, baba ghanoush, and tabbouleh. Her dishes showcase the bold flavors of the Mediterranean, with a focus on fresh, locally-sourced ingredients."
+        }
+    },
+    {
+        "id": "mediterranean-recipe-16",
         "chef_id": 6,
         "image": "https://example.com/mediterranean-recipe-1.jpg",
         "name": "Mediterranean Grilled Chicken",
         "ingredients": [
-          "4 boneless, skinless chicken breasts",
-          "2 tablespoons olive oil",
-          "2 tablespoons lemon juice",
-          "2 cloves garlic, minced",
-          "1 teaspoon dried oregano",
-          "Salt and pepper to taste",
-          "1/4 cup chopped fresh parsley (optional)"
+            "4 boneless, skinless chicken breasts",
+            "2 tablespoons olive oil",
+            "2 tablespoons lemon juice",
+            "2 cloves garlic, minced",
+            "1 teaspoon dried oregano",
+            "Salt and pepper to taste",
+            "1/4 cup chopped fresh parsley (optional)"
         ],
         "cookingMethod": "1. Preheat grill to medium-high heat.\n2. In a small bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper.\n3. Brush chicken with the mixture, making sure to coat both sides.\n4. Grill chicken for 6-8 minutes per side, or until fully cooked.\n5. Let the chicken rest for a few minutes before slicing and serving.\n6. Garnish with chopped parsley, if desired.",
-        "rating": 4.0
-      },
-
-      {
-        "id": "mediterranean-recipe-2",
+        "rating": 4.0,
+        "chef": {
+            "name": "Maria Rodriguez",
+            "picture": "https://img.freepik.com/free-photo/young-pretty-cook-chef-uniform-standing-profile-view-holding-rolling-pin-looking_141793-26420.jpg?w=900&t=st=1683109576~exp=1683110176~hmac=d7a029b46eeddda60bb99133b048d229d027a3d45cf1467bc2c1cf049f7e27f2",
+            "yearsOfExperience": 12,
+            "numberOfRecipes": 60,
+            "likes": 12000,
+            "bio": "Maria Rodriguez is a Greek chef who has spent his entire career exploring the culinary traditions of the Mediterranean. He has worked in top-rated restaurants across Greece and is known for his innovative use of traditional ingredients and techniques. His dishes are a fusion of Mediterranean flavors, with a special emphasis on the cuisine of his native Greece."
+        }
+    },
+    {
+        "id": "mediterranean-recipe-17",
         "chef_id": 6,
         "image": "https://example.com/greek-salad.jpg",
         "name": "Greek Salad",
         "ingredients": [
-          "1 head romaine lettuce, chopped",
-          "1 medium cucumber, peeled and chopped",
-          "2 medium tomatoes, chopped",
-          "1/2 red onion, thinly sliced",
-          "1/2 cup Kalamata olives, pitted",
-          "1/2 cup crumbled feta cheese",
-          "1/4 cup olive oil",
-          "2 tablespoons red wine vinegar",
-          "1 teaspoon dried oregano",
-          "Salt and pepper to taste"
+            "1 head romaine lettuce, chopped",
+            "1 medium cucumber, peeled and chopped",
+            "2 medium tomatoes, chopped",
+            "1/2 red onion, thinly sliced",
+            "1/2 cup Kalamata olives, pitted",
+            "1/2 cup crumbled feta cheese",
+            "1/4 cup olive oil",
+            "2 tablespoons red wine vinegar",
+            "1 teaspoon dried oregano",
+            "Salt and pepper to taste"
         ],
         "cookingMethod": "1. In a large bowl, combine lettuce, cucumber, tomatoes, red onion, and olives.\n2. In a small bowl, whisk together olive oil, red wine vinegar, oregano, salt, and pepper.\n3. Pour dressing over salad and toss to coat.\n4. Sprinkle feta cheese over the top of the salad and serve.",
-        "rating": 4.5
-      },
-
-      {
-        "id": "mediterranean-recipe-3",
+        "rating": 4.5,
+        "chef": {
+            "name": "Maria Rodriguez",
+            "picture": "https://img.freepik.com/free-photo/young-pretty-cook-chef-uniform-standing-profile-view-holding-rolling-pin-looking_141793-26420.jpg?w=900&t=st=1683109576~exp=1683110176~hmac=d7a029b46eeddda60bb99133b048d229d027a3d45cf1467bc2c1cf049f7e27f2",
+            "yearsOfExperience": 12,
+            "numberOfRecipes": 60,
+            "likes": 12000,
+            "bio": "Maria Rodriguez is a Greek chef who has spent his entire career exploring the culinary traditions of the Mediterranean. He has worked in top-rated restaurants across Greece and is known for his innovative use of traditional ingredients and techniques. His dishes are a fusion of Mediterranean flavors, with a special emphasis on the cuisine of his native Greece."
+        }
+    },
+    {
+        "id": "mediterranean-recipe-18",
         "chef_id": 6,
         "image": "https://example.com/falafel-wraps.jpg",
         "name": "Falafel Wraps",
         "ingredients": [
-          "1 cup dried chickpeas",
-          "1/2 onion, chopped",
-          "1/4 cup chopped fresh parsley",
-          "1/4 cup chopped fresh cilantro",
-          "2 cloves garlic, minced",
-          "1 teaspoon ground cumin",
-          "1 teaspoon ground coriander",
-          "1/2 teaspoon salt",
-          "1/4 teaspoon black pepper",
-          "1/4 teaspoon cayenne pepper",
-          "1/4 cup all-purpose flour",
-          "1/2 teaspoon baking powder",
-          "4 pita breads",
-          "1/2 cup hummus",
-          "1/2 cup tzatziki",
-          "1/2 cup chopped cucumber",
-          "1/2 cup chopped tomato",
-          "1/4 cup chopped red onion"
+            "1 cup dried chickpeas",
+            "1/2 onion, chopped",
+            "1/4 cup chopped fresh parsley",
+            "1/4 cup chopped fresh cilantro",
+            "2 cloves garlic, minced",
+            "1 teaspoon ground cumin",
+            "1 teaspoon ground coriander",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "1/4 teaspoon cayenne pepper",
+            "1/4 cup all-purpose flour",
+            "1/2 teaspoon baking powder",
+            "4 pita breads",
+            "1/2 cup hummus",
+            "1/2 cup tzatziki",
+            "1/2 cup chopped cucumber",
+            "1/2 cup chopped tomato",
+            "1/4 cup chopped red onion"
         ],
         "cookingMethod": "1. Soak chickpeas in water overnight.\n2. Drain chickpeas and combine with onion, parsley, cilantro, garlic, cumin, coriander, salt, black pepper, and cayenne pepper in a food processor.\n3. Process until mixture forms a coarse paste.\n4. Stir in flour and baking powder.\n5. Heat 1/2 inch of oil in a large skillet over medium heat.\n6. Shape falafel mixture into small balls and fry until golden brown, about 2 minutes per side.\n7. To assemble wraps, spread hummus and tzatziki on pita breads.\n8. Top with falafel, cucumber, tomato, and red onion.\n9. Roll up and serve.",
-        "rating": 4.2
-      }
-
-
-
-      
-      
-      
+        "rating": 4.2,
+        "chef": {
+            "name": "Maria Rodriguez",
+            "picture": "https://img.freepik.com/free-photo/young-pretty-cook-chef-uniform-standing-profile-view-holding-rolling-pin-looking_141793-26420.jpg?w=900&t=st=1683109576~exp=1683110176~hmac=d7a029b46eeddda60bb99133b048d229d027a3d45cf1467bc2c1cf049f7e27f2",
+            "yearsOfExperience": 12,
+            "numberOfRecipes": 60,
+            "likes": 12000,
+            "bio": "Maria Rodriguez is a Greek chef who has spent his entire career exploring the culinary traditions of the Mediterranean. He has worked in top-rated restaurants across Greece and is known for his innovative use of traditional ingredients and techniques. His dishes are a fusion of Mediterranean flavors, with a special emphasis on the cuisine of his native Greece."
+        }
+    }
 ]

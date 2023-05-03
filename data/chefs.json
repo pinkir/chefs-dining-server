@@ -2,7 +2,7 @@
       {
         "id": 1,
         "name": "John Smith",
-        "picture": "https://img.freepik.com/free-photo/female-chef-tenderizing-meat-with-utensil_23-2148491291.jpg?w=360&t=st=1683098901~exp=1683099501~hmac=12503270364ff77e8d7ca30518b077c0e3c3302811fa53818b69d6087a911200",
+        "picture": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-grating-carrot-with-grater-isolated-orange-wall_141793-101214.jpg?w=900&t=st=1683104512~exp=1683105112~hmac=574caadcc514ba755842ac86386ad196288bf7528c56ee4e4df6e74311b62c2e",
         "yearsOfExperience": 10,
         "numberOfRecipes": 50,
         "likes": 10000
@@ -10,7 +10,7 @@
       {
         "id": 2,
         "name": "Jane Doe",
-        "picture": "https://example.com/chef2.jpg",
+        "picture": "https://img.freepik.com/free-photo/chef-cooking-fresh-vegetable-salad-his-kitchen_155003-3284.jpg?w=900&t=st=1683104385~exp=1683104985~hmac=7c0a881eb564ee8ef05ae72350fa73ecdd5e0314d7ef6c9c4323415c5a503801",
         "yearsOfExperience": 5,
         "numberOfRecipes": 20,
         "likes": 5000
@@ -18,7 +18,7 @@
       {
         "id": 3,
         "name": "Mike Johnson",
-        "picture": "https://example.com/chef3.jpg",
+        "picture": "https://img.freepik.com/free-photo/handsome-chef-catching-ingredients-soup_329181-672.jpg?w=900&t=st=1683109272~exp=1683109872~hmac=1bb98cf511dc503a4d5ebf085c3c2ea8c44ae41d4fe53d8a6b60997e28972995",
         "yearsOfExperience": 15,
         "numberOfRecipes": 75,
         "likes": 15000
@@ -26,7 +26,7 @@
       {
         "id": 4,
         "name": "Sara Lee",
-        "picture": "https://example.com/chef4.jpg",
+        "picture": "https://img.freepik.com/free-photo/male-chef-uniform-hat-apron-adding-spice-into-food-kitchen_176474-9019.jpg?w=900&t=st=1683109371~exp=1683109971~hmac=6d301b8fe2c7f2eb1824401f957f074b989945036f4fbaa81a2f5da5d30e84cc",
         "yearsOfExperience": 8,
         "numberOfRecipes": 40,
         "likes": 8000
@@ -34,7 +34,7 @@
       {
         "id": 5,
         "name": "Tommy Nguyen",
-        "picture": "https://example.com/chef5.jpg",
+        "picture": "https://img.freepik.com/free-photo/young-confident-caucasian-cook-girl-chef-uniform-holds-wooden-spoon-puts-hand-waist-isolated-pink-wall-with-copy-space_141793-33208.jpg?t=st=1683109365~exp=1683109965~hmac=6e4202a6b2d6977b2c382bc51954290b94167619840732e046a304b36fe93f6f",
         "yearsOfExperience": 3,
         "numberOfRecipes": 10,
         "likes": 2000
@@ -42,7 +42,7 @@
       {
         "id": 6,
         "name": "Maria Rodriguez",
-        "picture": "https://example.com/chef6.jpg",
+        "picture": "https://img.freepik.com/free-photo/young-pretty-cook-chef-uniform-standing-profile-view-holding-rolling-pin-looking_141793-26420.jpg?w=900&t=st=1683109576~exp=1683110176~hmac=d7a029b46eeddda60bb99133b048d229d027a3d45cf1467bc2c1cf049f7e27f2",
         "yearsOfExperience": 12,
         "numberOfRecipes": 60,
         "likes": 12000
