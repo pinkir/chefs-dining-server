@@ -27,7 +27,7 @@
     {
         "id": "mediterranean-recipe-2",
         "chef_id": 1,
-        "image": "https://example.com/greek-salad.jpg",
+        "image": "https://img.freepik.com/free-photo/greek-salad-with-fresh-tomato-cucumber-red-onion-basil-feta-cheese-black-olives-italian-herbs_2829-4480.jpg?w=900&t=st=1683135879~exp=1683136479~hmac=b8543d094215b70445ab1825473334e6a3d47b01e381ee55d622372f5ac77db4",
         "name": "Greek Salad",
         "ingredients": [
             "1 head romaine lettuce, chopped",
@@ -55,7 +55,7 @@
     {
         "id": "mediterranean-recipe-3",
         "chef_id": 1,
-        "image": "https://example.com/falafel-wraps.jpg",
+        "image": "https://img.freepik.com/free-photo/high-angle-fried-falafel_23-2148814482.jpg?w=900&t=st=1683136396~exp=1683136996~hmac=b9640a7364635de3a0d8abaa6ab279bf2f26095d16b46a4ff3798ee7c29ac380",
         "name": "Falafel Wraps",
         "ingredients": [
             "1 cup dried chickpeas",
@@ -92,7 +92,7 @@
         "id": "mediterranean-recipe-4",
         "chef_id": 2,
         "image": "https://example.com/mediterranean-recipe-1.jpg",
-        "name": "Mediterranean Grilled Chicken",
+        "name": "Moussaka",
         "ingredients": [
             "4 boneless, skinless chicken breasts",
             "2 tablespoons olive oil",
@@ -117,7 +117,7 @@
         "id": "mediterranean-recipe-5",
         "chef_id": 2,
         "image": "https://example.com/greek-salad.jpg",
-        "name": "Greek Salad",
+        "name": "Paella",
         "ingredients": [
             "1 head romaine lettuce, chopped",
             "1 medium cucumber, peeled and chopped",
@@ -145,7 +145,7 @@
         "id": "mediterranean-recipe-6",
         "chef_id": 2,
         "image": "https://example.com/falafel-wraps.jpg",
-        "name": "Falafel Wraps",
+        "name": "Fattoush",
         "ingredients": [
             "1 cup dried chickpeas",
             "1/2 onion, chopped",
@@ -181,7 +181,7 @@
         "id": "mediterranean-recipe-7",
         "chef_id": 3,
         "image": "https://example.com/mediterranean-recipe-1.jpg",
-        "name": "Mediterranean Grilled Chicken",
+        "name": "Tabouli",
         "ingredients": [
             "4 boneless, skinless chicken breasts",
             "2 tablespoons olive oil",
@@ -206,7 +206,7 @@
         "id": "mediterranean-recipe-8",
         "chef_id": 3,
         "image": "https://example.com/greek-salad.jpg",
-        "name": "Greek Salad",
+        "name": "Spanakopita",
         "ingredients": [
             "1 head romaine lettuce, chopped",
             "1 medium cucumber, peeled and chopped",
@@ -234,7 +234,7 @@
         "id": "mediterranean-recipe-9",
         "chef_id": 3,
         "image": "https://example.com/falafel-wraps.jpg",
-        "name": "Falafel Wraps",
+        "name": "Dolmades",
         "ingredients": [
             "1 cup dried chickpeas",
             "1/2 onion, chopped",
@@ -270,7 +270,7 @@
         "id": "mediterranean-recipe-10",
         "chef_id": 4,
         "image": "https://example.com/mediterranean-recipe-1.jpg",
-        "name": "Mediterranean Grilled Chicken",
+        "name": "Baba Ghanoush",
         "ingredients": [
             "4 boneless, skinless chicken breasts",
             "2 tablespoons olive oil",
@@ -295,7 +295,7 @@
         "id": "mediterranean-recipe-11",
         "chef_id": 4,
         "image": "https://example.com/greek-salad.jpg",
-        "name": "Greek Salad",
+        "name": "Tzatziki",
         "ingredients": [
             "1 head romaine lettuce, chopped",
             "1 medium cucumber, peeled and chopped",
@@ -323,7 +323,7 @@
         "id": "mediterranean-recipe-12",
         "chef_id": 4,
         "image": "https://example.com/falafel-wraps.jpg",
-        "name": "Falafel Wraps",
+        "name": "Kebabs",
         "ingredients": [
             "1 cup dried chickpeas",
             "1/2 onion, chopped",
@@ -359,7 +359,7 @@
         "id": "mediterranean-recipe-13",
         "chef_id": 5,
         "image": "https://example.com/mediterranean-recipe-1.jpg",
-        "name": "Mediterranean Grilled Chicken",
+        "name": "Pesto",
         "ingredients": [
             "4 boneless, skinless chicken breasts",
             "2 tablespoons olive oil",
@@ -384,7 +384,7 @@
         "id": "mediterranean-recipe-14",
         "chef_id": 5,
         "image": "https://example.com/greek-salad.jpg",
-        "name": "Greek Salad",
+        "name": "Caponata",
         "ingredients": [
             "1 head romaine lettuce, chopped",
             "1 medium cucumber, peeled and chopped",
@@ -412,7 +412,7 @@
         "id": "mediterranean-recipe-15",
         "chef_id": 5,
         "image": "https://example.com/falafel-wraps.jpg",
-        "name": "Falafel Wraps",
+        "name": "Polenta",
         "ingredients": [
             "1 cup dried chickpeas",
             "1/2 onion, chopped",
@@ -448,7 +448,7 @@
         "id": "mediterranean-recipe-16",
         "chef_id": 6,
         "image": "https://example.com/mediterranean-recipe-1.jpg",
-        "name": "Mediterranean Grilled Chicken",
+        "name": "Cioppino",
         "ingredients": [
             "4 boneless, skinless chicken breasts",
             "2 tablespoons olive oil",
@@ -473,7 +473,7 @@
         "id": "mediterranean-recipe-17",
         "chef_id": 6,
         "image": "https://example.com/greek-salad.jpg",
-        "name": "Greek Salad",
+        "name": "Ratatouille",
         "ingredients": [
             "1 head romaine lettuce, chopped",
             "1 medium cucumber, peeled and chopped",
@@ -501,7 +501,7 @@
         "id": "mediterranean-recipe-18",
         "chef_id": 6,
         "image": "https://example.com/falafel-wraps.jpg",
-        "name": "Falafel Wraps",
+        "name": "Tagine",
         "ingredients": [
             "1 cup dried chickpeas",
             "1/2 onion, chopped",
