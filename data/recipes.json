@@ -1,0 +1,417 @@
+[
+    {
+        "id": "mediterranean-recipe-1",
+        "chef_id": 1,
+        "image": "https://img.freepik.com/free-photo/skewered-chicken-kebab-with-rice-vegetables_140725-2320.jpg?w=1060&t=st=1683100422~exp=1683101022~hmac=9f7ef0867b46597eb4fb8e5d68eaf7042dc0f2dd442ca3ceef7e32d00dff0dd2",
+        "name": "Mediterranean Grilled Chicken",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts",
+          "2 tablespoons olive oil",
+          "2 tablespoons lemon juice",
+          "2 cloves garlic, minced",
+          "1 teaspoon dried oregano",
+          "Salt and pepper to taste",
+          "1/4 cup chopped fresh parsley (optional)"
+        ],
+        "cookingMethod": "1. Preheat grill to medium-high heat.\n2. In a small bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper.\n3. Brush chicken with the mixture, making sure to coat both sides.\n4. Grill chicken for 6-8 minutes per side, or until fully cooked.\n5. Let the chicken rest for a few minutes before slicing and serving.\n6. Garnish with chopped parsley, if desired.",
+        "rating": 4.0
+      },
+
+      {
+        "id": "mediterranean-recipe-2",
+        "chef_id": 1,
+        "image": "https://example.com/greek-salad.jpg",
+        "name": "Greek Salad",
+        "ingredients": [
+          "1 head romaine lettuce, chopped",
+          "1 medium cucumber, peeled and chopped",
+          "2 medium tomatoes, chopped",
+          "1/2 red onion, thinly sliced",
+          "1/2 cup Kalamata olives, pitted",
+          "1/2 cup crumbled feta cheese",
+          "1/4 cup olive oil",
+          "2 tablespoons red wine vinegar",
+          "1 teaspoon dried oregano",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": "1. In a large bowl, combine lettuce, cucumber, tomatoes, red onion, and olives.\n2. In a small bowl, whisk together olive oil, red wine vinegar, oregano, salt, and pepper.\n3. Pour dressing over salad and toss to coat.\n4. Sprinkle feta cheese over the top of the salad and serve.",
+        "rating": 4.5
+      },
+
+      {
+        "id": "mediterranean-recipe-3",
+        "chef_id": 1,
+        "image": "https://example.com/falafel-wraps.jpg",
+        "name": "Falafel Wraps",
+        "ingredients": [
+          "1 cup dried chickpeas",
+          "1/2 onion, chopped",
+          "1/4 cup chopped fresh parsley",
+          "1/4 cup chopped fresh cilantro",
+          "2 cloves garlic, minced",
+          "1 teaspoon ground cumin",
+          "1 teaspoon ground coriander",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1/4 teaspoon cayenne pepper",
+          "1/4 cup all-purpose flour",
+          "1/2 teaspoon baking powder",
+          "4 pita breads",
+          "1/2 cup hummus",
+          "1/2 cup tzatziki",
+          "1/2 cup chopped cucumber",
+          "1/2 cup chopped tomato",
+          "1/4 cup chopped red onion"
+        ],
+        "cookingMethod": "1. Soak chickpeas in water overnight.\n2. Drain chickpeas and combine with onion, parsley, cilantro, garlic, cumin, coriander, salt, black pepper, and cayenne pepper in a food processor.\n3. Process until mixture forms a coarse paste.\n4. Stir in flour and baking powder.\n5. Heat 1/2 inch of oil in a large skillet over medium heat.\n6. Shape falafel mixture into small balls and fry until golden brown, about 2 minutes per side.\n7. To assemble wraps, spread hummus and tzatziki on pita breads.\n8. Top with falafel, cucumber, tomato, and red onion.\n9. Roll up and serve.",
+        "rating": 4.2
+      },
+
+
+      {
+        "id": "mediterranean-recipe-1",
+        "chef_id": 2,
+        "image": "https://example.com/mediterranean-recipe-1.jpg",
+        "name": "Mediterranean Grilled Chicken",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts",
+          "2 tablespoons olive oil",
+          "2 tablespoons lemon juice",
+          "2 cloves garlic, minced",
+          "1 teaspoon dried oregano",
+          "Salt and pepper to taste",
+          "1/4 cup chopped fresh parsley (optional)"
+        ],
+        "cookingMethod": "1. Preheat grill to medium-high heat.\n2. In a small bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper.\n3. Brush chicken with the mixture, making sure to coat both sides.\n4. Grill chicken for 6-8 minutes per side, or until fully cooked.\n5. Let the chicken rest for a few minutes before slicing and serving.\n6. Garnish with chopped parsley, if desired.",
+        "rating": 4.0
+      },
+
+      {
+        "id": "mediterranean-recipe-2",
+        "chef_id": 2,
+        "image": "https://example.com/greek-salad.jpg",
+        "name": "Greek Salad",
+        "ingredients": [
+          "1 head romaine lettuce, chopped",
+          "1 medium cucumber, peeled and chopped",
+          "2 medium tomatoes, chopped",
+          "1/2 red onion, thinly sliced",
+          "1/2 cup Kalamata olives, pitted",
+          "1/2 cup crumbled feta cheese",
+          "1/4 cup olive oil",
+          "2 tablespoons red wine vinegar",
+          "1 teaspoon dried oregano",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": "1. In a large bowl, combine lettuce, cucumber, tomatoes, red onion, and olives.\n2. In a small bowl, whisk together olive oil, red wine vinegar, oregano, salt, and pepper.\n3. Pour dressing over salad and toss to coat.\n4. Sprinkle feta cheese over the top of the salad and serve.",
+        "rating": 4.5
+      },
+
+      {
+        "id": "mediterranean-recipe-3",
+        "chef_id": 2,
+        "image": "https://example.com/falafel-wraps.jpg",
+        "name": "Falafel Wraps",
+        "ingredients": [
+          "1 cup dried chickpeas",
+          "1/2 onion, chopped",
+          "1/4 cup chopped fresh parsley",
+          "1/4 cup chopped fresh cilantro",
+          "2 cloves garlic, minced",
+          "1 teaspoon ground cumin",
+          "1 teaspoon ground coriander",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1/4 teaspoon cayenne pepper",
+          "1/4 cup all-purpose flour",
+          "1/2 teaspoon baking powder",
+          "4 pita breads",
+          "1/2 cup hummus",
+          "1/2 cup tzatziki",
+          "1/2 cup chopped cucumber",
+          "1/2 cup chopped tomato",
+          "1/4 cup chopped red onion"
+        ],
+        "cookingMethod": "1. Soak chickpeas in water overnight.\n2. Drain chickpeas and combine with onion, parsley, cilantro, garlic, cumin, coriander, salt, black pepper, and cayenne pepper in a food processor.\n3. Process until mixture forms a coarse paste.\n4. Stir in flour and baking powder.\n5. Heat 1/2 inch of oil in a large skillet over medium heat.\n6. Shape falafel mixture into small balls and fry until golden brown, about 2 minutes per side.\n7. To assemble wraps, spread hummus and tzatziki on pita breads.\n8. Top with falafel, cucumber, tomato, and red onion.\n9. Roll up and serve.",
+        "rating": 4.2
+      },
+
+
+      {
+        "id": "mediterranean-recipe-1",
+        "chef_id": 3,
+        "image": "https://example.com/mediterranean-recipe-1.jpg",
+        "name": "Mediterranean Grilled Chicken",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts",
+          "2 tablespoons olive oil",
+          "2 tablespoons lemon juice",
+          "2 cloves garlic, minced",
+          "1 teaspoon dried oregano",
+          "Salt and pepper to taste",
+          "1/4 cup chopped fresh parsley (optional)"
+        ],
+        "cookingMethod": "1. Preheat grill to medium-high heat.\n2. In a small bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper.\n3. Brush chicken with the mixture, making sure to coat both sides.\n4. Grill chicken for 6-8 minutes per side, or until fully cooked.\n5. Let the chicken rest for a few minutes before slicing and serving.\n6. Garnish with chopped parsley, if desired.",
+        "rating": 4.0
+      },
+
+      {
+        "id": "mediterranean-recipe-2",
+        "chef_id": 3,
+        "image": "https://example.com/greek-salad.jpg",
+        "name": "Greek Salad",
+        "ingredients": [
+          "1 head romaine lettuce, chopped",
+          "1 medium cucumber, peeled and chopped",
+          "2 medium tomatoes, chopped",
+          "1/2 red onion, thinly sliced",
+          "1/2 cup Kalamata olives, pitted",
+          "1/2 cup crumbled feta cheese",
+          "1/4 cup olive oil",
+          "2 tablespoons red wine vinegar",
+          "1 teaspoon dried oregano",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": "1. In a large bowl, combine lettuce, cucumber, tomatoes, red onion, and olives.\n2. In a small bowl, whisk together olive oil, red wine vinegar, oregano, salt, and pepper.\n3. Pour dressing over salad and toss to coat.\n4. Sprinkle feta cheese over the top of the salad and serve.",
+        "rating": 4.5
+      },
+
+      {
+        "id": "mediterranean-recipe-3",
+        "chef_id": 3,
+        "image": "https://example.com/falafel-wraps.jpg",
+        "name": "Falafel Wraps",
+        "ingredients": [
+          "1 cup dried chickpeas",
+          "1/2 onion, chopped",
+          "1/4 cup chopped fresh parsley",
+          "1/4 cup chopped fresh cilantro",
+          "2 cloves garlic, minced",
+          "1 teaspoon ground cumin",
+          "1 teaspoon ground coriander",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1/4 teaspoon cayenne pepper",
+          "1/4 cup all-purpose flour",
+          "1/2 teaspoon baking powder",
+          "4 pita breads",
+          "1/2 cup hummus",
+          "1/2 cup tzatziki",
+          "1/2 cup chopped cucumber",
+          "1/2 cup chopped tomato",
+          "1/4 cup chopped red onion"
+        ],
+        "cookingMethod": "1. Soak chickpeas in water overnight.\n2. Drain chickpeas and combine with onion, parsley, cilantro, garlic, cumin, coriander, salt, black pepper, and cayenne pepper in a food processor.\n3. Process until mixture forms a coarse paste.\n4. Stir in flour and baking powder.\n5. Heat 1/2 inch of oil in a large skillet over medium heat.\n6. Shape falafel mixture into small balls and fry until golden brown, about 2 minutes per side.\n7. To assemble wraps, spread hummus and tzatziki on pita breads.\n8. Top with falafel, cucumber, tomato, and red onion.\n9. Roll up and serve.",
+        "rating": 4.2
+      },
+
+      {
+        "id": "mediterranean-recipe-1",
+        "chef_id": 4,
+        "image": "https://example.com/mediterranean-recipe-1.jpg",
+        "name": "Mediterranean Grilled Chicken",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts",
+          "2 tablespoons olive oil",
+          "2 tablespoons lemon juice",
+          "2 cloves garlic, minced",
+          "1 teaspoon dried oregano",
+          "Salt and pepper to taste",
+          "1/4 cup chopped fresh parsley (optional)"
+        ],
+        "cookingMethod": "1. Preheat grill to medium-high heat.\n2. In a small bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper.\n3. Brush chicken with the mixture, making sure to coat both sides.\n4. Grill chicken for 6-8 minutes per side, or until fully cooked.\n5. Let the chicken rest for a few minutes before slicing and serving.\n6. Garnish with chopped parsley, if desired.",
+        "rating": 4.0
+      },
+
+      {
+        "id": "mediterranean-recipe-2",
+        "chef_id": 4,
+        "image": "https://example.com/greek-salad.jpg",
+        "name": "Greek Salad",
+        "ingredients": [
+          "1 head romaine lettuce, chopped",
+          "1 medium cucumber, peeled and chopped",
+          "2 medium tomatoes, chopped",
+          "1/2 red onion, thinly sliced",
+          "1/2 cup Kalamata olives, pitted",
+          "1/2 cup crumbled feta cheese",
+          "1/4 cup olive oil",
+          "2 tablespoons red wine vinegar",
+          "1 teaspoon dried oregano",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": "1. In a large bowl, combine lettuce, cucumber, tomatoes, red onion, and olives.\n2. In a small bowl, whisk together olive oil, red wine vinegar, oregano, salt, and pepper.\n3. Pour dressing over salad and toss to coat.\n4. Sprinkle feta cheese over the top of the salad and serve.",
+        "rating": 4.5
+      },
+
+      {
+        "id": "mediterranean-recipe-3",
+        "chef_id": 4,
+        "image": "https://example.com/falafel-wraps.jpg",
+        "name": "Falafel Wraps",
+        "ingredients": [
+          "1 cup dried chickpeas",
+          "1/2 onion, chopped",
+          "1/4 cup chopped fresh parsley",
+          "1/4 cup chopped fresh cilantro",
+          "2 cloves garlic, minced",
+          "1 teaspoon ground cumin",
+          "1 teaspoon ground coriander",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1/4 teaspoon cayenne pepper",
+          "1/4 cup all-purpose flour",
+          "1/2 teaspoon baking powder",
+          "4 pita breads",
+          "1/2 cup hummus",
+          "1/2 cup tzatziki",
+          "1/2 cup chopped cucumber",
+          "1/2 cup chopped tomato",
+          "1/4 cup chopped red onion"
+        ],
+        "cookingMethod": "1. Soak chickpeas in water overnight.\n2. Drain chickpeas and combine with onion, parsley, cilantro, garlic, cumin, coriander, salt, black pepper, and cayenne pepper in a food processor.\n3. Process until mixture forms a coarse paste.\n4. Stir in flour and baking powder.\n5. Heat 1/2 inch of oil in a large skillet over medium heat.\n6. Shape falafel mixture into small balls and fry until golden brown, about 2 minutes per side.\n7. To assemble wraps, spread hummus and tzatziki on pita breads.\n8. Top with falafel, cucumber, tomato, and red onion.\n9. Roll up and serve.",
+        "rating": 4.2
+      },
+
+      {
+        "id": "mediterranean-recipe-1",
+        "chef_id": 5,
+        "image": "https://example.com/mediterranean-recipe-1.jpg",
+        "name": "Mediterranean Grilled Chicken",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts",
+          "2 tablespoons olive oil",
+          "2 tablespoons lemon juice",
+          "2 cloves garlic, minced",
+          "1 teaspoon dried oregano",
+          "Salt and pepper to taste",
+          "1/4 cup chopped fresh parsley (optional)"
+        ],
+        "cookingMethod": "1. Preheat grill to medium-high heat.\n2. In a small bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper.\n3. Brush chicken with the mixture, making sure to coat both sides.\n4. Grill chicken for 6-8 minutes per side, or until fully cooked.\n5. Let the chicken rest for a few minutes before slicing and serving.\n6. Garnish with chopped parsley, if desired.",
+        "rating": 4.0
+      },
+
+      {
+        "id": "mediterranean-recipe-2",
+        "chef_id": 5,
+        "image": "https://example.com/greek-salad.jpg",
+        "name": "Greek Salad",
+        "ingredients": [
+          "1 head romaine lettuce, chopped",
+          "1 medium cucumber, peeled and chopped",
+          "2 medium tomatoes, chopped",
+          "1/2 red onion, thinly sliced",
+          "1/2 cup Kalamata olives, pitted",
+          "1/2 cup crumbled feta cheese",
+          "1/4 cup olive oil",
+          "2 tablespoons red wine vinegar",
+          "1 teaspoon dried oregano",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": "1. In a large bowl, combine lettuce, cucumber, tomatoes, red onion, and olives.\n2. In a small bowl, whisk together olive oil, red wine vinegar, oregano, salt, and pepper.\n3. Pour dressing over salad and toss to coat.\n4. Sprinkle feta cheese over the top of the salad and serve.",
+        "rating": 4.5
+      },
+
+      {
+        "id": "mediterranean-recipe-3",
+        "chef_id": 5,
+        "image": "https://example.com/falafel-wraps.jpg",
+        "name": "Falafel Wraps",
+        "ingredients": [
+          "1 cup dried chickpeas",
+          "1/2 onion, chopped",
+          "1/4 cup chopped fresh parsley",
+          "1/4 cup chopped fresh cilantro",
+          "2 cloves garlic, minced",
+          "1 teaspoon ground cumin",
+          "1 teaspoon ground coriander",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1/4 teaspoon cayenne pepper",
+          "1/4 cup all-purpose flour",
+          "1/2 teaspoon baking powder",
+          "4 pita breads",
+          "1/2 cup hummus",
+          "1/2 cup tzatziki",
+          "1/2 cup chopped cucumber",
+          "1/2 cup chopped tomato",
+          "1/4 cup chopped red onion"
+        ],
+        "cookingMethod": "1. Soak chickpeas in water overnight.\n2. Drain chickpeas and combine with onion, parsley, cilantro, garlic, cumin, coriander, salt, black pepper, and cayenne pepper in a food processor.\n3. Process until mixture forms a coarse paste.\n4. Stir in flour and baking powder.\n5. Heat 1/2 inch of oil in a large skillet over medium heat.\n6. Shape falafel mixture into small balls and fry until golden brown, about 2 minutes per side.\n7. To assemble wraps, spread hummus and tzatziki on pita breads.\n8. Top with falafel, cucumber, tomato, and red onion.\n9. Roll up and serve.",
+        "rating": 4.2
+      },
+
+      {
+        "id": "mediterranean-recipe-1",
+        "chef_id": 6,
+        "image": "https://example.com/mediterranean-recipe-1.jpg",
+        "name": "Mediterranean Grilled Chicken",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts",
+          "2 tablespoons olive oil",
+          "2 tablespoons lemon juice",
+          "2 cloves garlic, minced",
+          "1 teaspoon dried oregano",
+          "Salt and pepper to taste",
+          "1/4 cup chopped fresh parsley (optional)"
+        ],
+        "cookingMethod": "1. Preheat grill to medium-high heat.\n2. In a small bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper.\n3. Brush chicken with the mixture, making sure to coat both sides.\n4. Grill chicken for 6-8 minutes per side, or until fully cooked.\n5. Let the chicken rest for a few minutes before slicing and serving.\n6. Garnish with chopped parsley, if desired.",
+        "rating": 4.0
+      },
+
+      {
+        "id": "mediterranean-recipe-2",
+        "chef_id": 6,
+        "image": "https://example.com/greek-salad.jpg",
+        "name": "Greek Salad",
+        "ingredients": [
+          "1 head romaine lettuce, chopped",
+          "1 medium cucumber, peeled and chopped",
+          "2 medium tomatoes, chopped",
+          "1/2 red onion, thinly sliced",
+          "1/2 cup Kalamata olives, pitted",
+          "1/2 cup crumbled feta cheese",
+          "1/4 cup olive oil",
+          "2 tablespoons red wine vinegar",
+          "1 teaspoon dried oregano",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": "1. In a large bowl, combine lettuce, cucumber, tomatoes, red onion, and olives.\n2. In a small bowl, whisk together olive oil, red wine vinegar, oregano, salt, and pepper.\n3. Pour dressing over salad and toss to coat.\n4. Sprinkle feta cheese over the top of the salad and serve.",
+        "rating": 4.5
+      },
+
+      {
+        "id": "mediterranean-recipe-3",
+        "chef_id": 6,
+        "image": "https://example.com/falafel-wraps.jpg",
+        "name": "Falafel Wraps",
+        "ingredients": [
+          "1 cup dried chickpeas",
+          "1/2 onion, chopped",
+          "1/4 cup chopped fresh parsley",
+          "1/4 cup chopped fresh cilantro",
+          "2 cloves garlic, minced",
+          "1 teaspoon ground cumin",
+          "1 teaspoon ground coriander",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1/4 teaspoon cayenne pepper",
+          "1/4 cup all-purpose flour",
+          "1/2 teaspoon baking powder",
+          "4 pita breads",
+          "1/2 cup hummus",
+          "1/2 cup tzatziki",
+          "1/2 cup chopped cucumber",
+          "1/2 cup chopped tomato",
+          "1/4 cup chopped red onion"
+        ],
+        "cookingMethod": "1. Soak chickpeas in water overnight.\n2. Drain chickpeas and combine with onion, parsley, cilantro, garlic, cumin, coriander, salt, black pepper, and cayenne pepper in a food processor.\n3. Process until mixture forms a coarse paste.\n4. Stir in flour and baking powder.\n5. Heat 1/2 inch of oil in a large skillet over medium heat.\n6. Shape falafel mixture into small balls and fry until golden brown, about 2 minutes per side.\n7. To assemble wraps, spread hummus and tzatziki on pita breads.\n8. Top with falafel, cucumber, tomato, and red onion.\n9. Roll up and serve.",
+        "rating": 4.2
+      }
+
+
+
+      
+      
+      
+]
