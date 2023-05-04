@@ -91,7 +91,7 @@
     {
         "id": "mediterranean-recipe-4",
         "chef_id": 2,
-        "image": "https://example.com/mediterranean-recipe-1.jpg",
+        "image": "https://img.freepik.com/free-photo/skewered-chicken-kebab-with-rice-vegetables_140725-2320.jpg?w=1060&t=st=1683100422~exp=1683101022~hmac=9f7ef0867b46597eb4fb8e5d68eaf7042dc0f2dd442ca3ceef7e32d00dff0dd2",
         "name": "Moussaka",
         "ingredients": [
             "4 boneless, skinless chicken breasts",
@@ -116,7 +116,7 @@
     {
         "id": "mediterranean-recipe-5",
         "chef_id": 2,
-        "image": "https://example.com/greek-salad.jpg",
+        "image": "https://img.freepik.com/free-photo/greek-salad-with-fresh-tomato-cucumber-red-onion-basil-feta-cheese-black-olives-italian-herbs_2829-4480.jpg?w=900&t=st=1683135879~exp=1683136479~hmac=b8543d094215b70445ab1825473334e6a3d47b01e381ee55d622372f5ac77db4",
         "name": "Paella",
         "ingredients": [
             "1 head romaine lettuce, chopped",
@@ -144,7 +144,7 @@
     {
         "id": "mediterranean-recipe-6",
         "chef_id": 2,
-        "image": "https://example.com/falafel-wraps.jpg",
+        "image": "https://img.freepik.com/free-photo/high-angle-fried-falafel_23-2148814482.jpg?w=900&t=st=1683136396~exp=1683136996~hmac=b9640a7364635de3a0d8abaa6ab279bf2f26095d16b46a4ff3798ee7c29ac380",
         "name": "Fattoush",
         "ingredients": [
             "1 cup dried chickpeas",
@@ -180,7 +180,7 @@
     {
         "id": "mediterranean-recipe-7",
         "chef_id": 3,
-        "image": "https://example.com/mediterranean-recipe-1.jpg",
+        "image": "https://img.freepik.com/free-photo/skewered-chicken-kebab-with-rice-vegetables_140725-2320.jpg?w=1060&t=st=1683100422~exp=1683101022~hmac=9f7ef0867b46597eb4fb8e5d68eaf7042dc0f2dd442ca3ceef7e32d00dff0dd2",
         "name": "Tabouli",
         "ingredients": [
             "4 boneless, skinless chicken breasts",
@@ -205,7 +205,7 @@
     {
         "id": "mediterranean-recipe-8",
         "chef_id": 3,
-        "image": "https://example.com/greek-salad.jpg",
+        "image": "https://img.freepik.com/free-photo/greek-salad-with-fresh-tomato-cucumber-red-onion-basil-feta-cheese-black-olives-italian-herbs_2829-4480.jpg?w=900&t=st=1683135879~exp=1683136479~hmac=b8543d094215b70445ab1825473334e6a3d47b01e381ee55d622372f5ac77db4",
         "name": "Spanakopita",
         "ingredients": [
             "1 head romaine lettuce, chopped",
@@ -233,7 +233,7 @@
     {
         "id": "mediterranean-recipe-9",
         "chef_id": 3,
-        "image": "https://example.com/falafel-wraps.jpg",
+        "image": "https://img.freepik.com/free-photo/high-angle-fried-falafel_23-2148814482.jpg?w=900&t=st=1683136396~exp=1683136996~hmac=b9640a7364635de3a0d8abaa6ab279bf2f26095d16b46a4ff3798ee7c29ac380",
         "name": "Dolmades",
         "ingredients": [
             "1 cup dried chickpeas",
@@ -269,7 +269,7 @@
     {
         "id": "mediterranean-recipe-10",
         "chef_id": 4,
-        "image": "https://example.com/mediterranean-recipe-1.jpg",
+        "image": "https://img.freepik.com/free-photo/skewered-chicken-kebab-with-rice-vegetables_140725-2320.jpg?w=1060&t=st=1683100422~exp=1683101022~hmac=9f7ef0867b46597eb4fb8e5d68eaf7042dc0f2dd442ca3ceef7e32d00dff0dd2",
         "name": "Baba Ghanoush",
         "ingredients": [
             "4 boneless, skinless chicken breasts",
@@ -294,7 +294,7 @@
     {
         "id": "mediterranean-recipe-11",
         "chef_id": 4,
-        "image": "https://example.com/greek-salad.jpg",
+        "image": "https://img.freepik.com/free-photo/greek-salad-with-fresh-tomato-cucumber-red-onion-basil-feta-cheese-black-olives-italian-herbs_2829-4480.jpg?w=900&t=st=1683135879~exp=1683136479~hmac=b8543d094215b70445ab1825473334e6a3d47b01e381ee55d622372f5ac77db4",
         "name": "Tzatziki",
         "ingredients": [
             "1 head romaine lettuce, chopped",
@@ -322,7 +322,7 @@
     {
         "id": "mediterranean-recipe-12",
         "chef_id": 4,
-        "image": "https://example.com/falafel-wraps.jpg",
+        "image": "https://img.freepik.com/free-photo/high-angle-fried-falafel_23-2148814482.jpg?w=900&t=st=1683136396~exp=1683136996~hmac=b9640a7364635de3a0d8abaa6ab279bf2f26095d16b46a4ff3798ee7c29ac380",
         "name": "Kebabs",
         "ingredients": [
             "1 cup dried chickpeas",
@@ -358,7 +358,7 @@
     {
         "id": "mediterranean-recipe-13",
         "chef_id": 5,
-        "image": "https://example.com/mediterranean-recipe-1.jpg",
+        "image": "https://img.freepik.com/free-photo/skewered-chicken-kebab-with-rice-vegetables_140725-2320.jpg?w=1060&t=st=1683100422~exp=1683101022~hmac=9f7ef0867b46597eb4fb8e5d68eaf7042dc0f2dd442ca3ceef7e32d00dff0dd2",
         "name": "Pesto",
         "ingredients": [
             "4 boneless, skinless chicken breasts",
@@ -383,7 +383,7 @@
     {
         "id": "mediterranean-recipe-14",
         "chef_id": 5,
-        "image": "https://example.com/greek-salad.jpg",
+        "image": "https://img.freepik.com/free-photo/greek-salad-with-fresh-tomato-cucumber-red-onion-basil-feta-cheese-black-olives-italian-herbs_2829-4480.jpg?w=900&t=st=1683135879~exp=1683136479~hmac=b8543d094215b70445ab1825473334e6a3d47b01e381ee55d622372f5ac77db4",
         "name": "Caponata",
         "ingredients": [
             "1 head romaine lettuce, chopped",
@@ -411,7 +411,7 @@
     {
         "id": "mediterranean-recipe-15",
         "chef_id": 5,
-        "image": "https://example.com/falafel-wraps.jpg",
+        "image": "https://img.freepik.com/free-photo/high-angle-fried-falafel_23-2148814482.jpg?w=900&t=st=1683136396~exp=1683136996~hmac=b9640a7364635de3a0d8abaa6ab279bf2f26095d16b46a4ff3798ee7c29ac380",
         "name": "Polenta",
         "ingredients": [
             "1 cup dried chickpeas",
@@ -447,7 +447,7 @@
     {
         "id": "mediterranean-recipe-16",
         "chef_id": 6,
-        "image": "https://example.com/mediterranean-recipe-1.jpg",
+        "image": "https://img.freepik.com/free-photo/skewered-chicken-kebab-with-rice-vegetables_140725-2320.jpg?w=1060&t=st=1683100422~exp=1683101022~hmac=9f7ef0867b46597eb4fb8e5d68eaf7042dc0f2dd442ca3ceef7e32d00dff0dd2",
         "name": "Cioppino",
         "ingredients": [
             "4 boneless, skinless chicken breasts",
@@ -472,7 +472,7 @@
     {
         "id": "mediterranean-recipe-17",
         "chef_id": 6,
-        "image": "https://example.com/greek-salad.jpg",
+        "image": "https://img.freepik.com/free-photo/greek-salad-with-fresh-tomato-cucumber-red-onion-basil-feta-cheese-black-olives-italian-herbs_2829-4480.jpg?w=900&t=st=1683135879~exp=1683136479~hmac=b8543d094215b70445ab1825473334e6a3d47b01e381ee55d622372f5ac77db4",
         "name": "Ratatouille",
         "ingredients": [
             "1 head romaine lettuce, chopped",
@@ -500,7 +500,7 @@
     {
         "id": "mediterranean-recipe-18",
         "chef_id": 6,
-        "image": "https://example.com/falafel-wraps.jpg",
+        "image": "https://img.freepik.com/free-photo/high-angle-fried-falafel_23-2148814482.jpg?w=900&t=st=1683136396~exp=1683136996~hmac=b9640a7364635de3a0d8abaa6ab279bf2f26095d16b46a4ff3798ee7c29ac380",
         "name": "Tagine",
         "ingredients": [
             "1 cup dried chickpeas",
