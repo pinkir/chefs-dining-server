@@ -16,6 +16,7 @@ app.get('/chefs', (req, res) =>{
   res.send(chefs);
 })
 
+// get all recipes
 app.get('/recipes', (req, res) =>{
   res.send(recipes);
 })
